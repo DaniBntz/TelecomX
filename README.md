@@ -25,15 +25,34 @@ Este proyecto tiene como objetivo analizar y entender las causas detrás de la *
 ## 📊 Resultados Clave
 
 - Los clientes con **contratos mensuales** presentan una mayor probabilidad de cancelar el servicio.
-  ![Churn Donut](imagenes/grafico_tipo_contrato.png)
+ <p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/grafico_tipo_contrato.png?raw=true" alt="Tipos de contrato" width="600"/>
+</p>
+
 - El uso de **cheque electrónico** como método de pago se asocia con mayor churn.
-  ![Churn Donut](imagenes/grafico_metodos_de_pago.png)
+<p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/grafico_metodos_de_pago.png?raw=true" alt="Métodos de pago" width="600"/>
+</p>
 - **Menor tiempo de permanencia** y **menor gasto acumulado** son comunes entre quienes cancelan.
-  ![Churn Donut](imagenes/grafico_cuentas_tiempo.png)
+<p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/grafico_cuentas_tiempo.png?raw=true" alt="Tiempo de permanencia y gastos" width="600"/>
+</p>
 - Los clientes que usan **fibra óptica** tienden a cancelar menos que los que usan **DSL**.
-  ![Churn Donut](imagenes/tipos_de_servicio.png)
+<p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/tipos_de_servicio.png?raw=true" alt="Tipos de servicio" width="600"/>
+</p>
 - Ciertas combinaciones de características permiten **predecir con mayor precisión** el riesgo de cancelación.
-  ![Churn Donut](imagenes/correlacion_cancelacion.png)
+<p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/top_correlacion_cancelacion.png?raw=true" alt="correlaciones de cancelación" width="600"/>
+</p>
+- Tipos de clientes: Edad, género y dependientes a cargo.
+<p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/clientes_jubilados.png?raw=true" alt="Clientes jubilados" width="600"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/genero_y_dependencia.png?raw=true" alt="Género y dependientes a cargo" width="600"/>
+</p>
 
 ---
 
