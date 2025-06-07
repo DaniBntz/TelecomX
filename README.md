@@ -28,8 +28,6 @@ Este proyecto tiene como objetivo analizar y entender las causas detrás de la *
   ![Churn Donut](imagenes/grafico_tipo_contrato.png)
 - El uso de **cheque electrónico** como método de pago se asocia con mayor churn.
   ![Churn Donut](imagenes/grafico_metodos_de_pago.png)
-
-  
 - **Menor tiempo de permanencia** y **menor gasto acumulado** son comunes entre quienes cancelan.
   ![Churn Donut](imagenes/grafico_cuentas_tiempo.png)
 - Los clientes que usan **fibra óptica** tienden a cancelar menos que los que usan **DSL**.
