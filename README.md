@@ -35,9 +35,18 @@ Este proyecto tiene como objetivo analizar y entender las causas detrás de la *
 </p>
 
 - **Menor tiempo de permanencia** y **menor gasto acumulado** son comunes entre quienes cancelan.
+
+  Esto sucede porque desde luego, se van antes por ello el gasto total es menor.
 <p align="left">
   <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/grafico_cuentas_tiempo.png?raw=true" alt="Tiempo de permanencia y gastos" width="600"/>
 </p>
+
+- **Mayor gasto mensual** y **menor tiempo de permanencia**, asociados con la cancelación.
+
+  Esto sugiere que, aunque no cancelan inmediatamente, los usuarios con tarifas elevadas y poca fidelización terminan abandonando el servicio en menos de un año.
+<p align="left">
+  <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/comparacion_pago_mes_dia_y_tiempo.png?raw=true" alt="Tiempo de permanencia y gastos" width="800"/>
+</p>  
 
 - Los clientes que usan **fibra óptica** tienden a cancelar más que los que usan **DSL**.
 <p align="left">
@@ -62,13 +71,21 @@ Este proyecto tiene como objetivo analizar y entender las causas detrás de la *
 
 ---
 
-## ✅ Recomendaciones
+## **Recomendaciones**
 
-- Incentivar contratos **anuales o bianuales** con beneficios exclusivos.
-- Promover métodos de **pago automático**, especialmente por tarjeta de crédito.
-- Diseñar estrategias de **retención segmentadas** para usuarios de alto riesgo.
-- Reforzar campañas de **fibra óptica** para mejorar la satisfacción del cliente.
-- Implementar **sistemas de alerta temprana** para prevenir cancelaciones inminentes.
+✅ Fomentar la transición hacia contratos de mayor duración mediante promociones o beneficios exclusivos.
+
+✅ Incentivar el uso de métodos de pago automáticos, ya que se asocian a menor churn.
+
+✅ Monitorear activamente a los clientes con alto coste diario o mensual, ya que presentan mayor riesgo de cancelación.
+
+✅ Implementar beneficios de permanencia o reducción gradual de tarifas como incentivo para prolongar la relación contractual.
+
+✅ Rediseñar los planes con fibra óptica para ofrecer mayor valor o soporte, ya que esta tecnología está asociada con mayor tasa de cancelación.
+
+✅ Segmentar a los clientes con más riesgo de fuga para aplicar estrategias de retención personalizadas.
+
+✅ Implementar alertas tempranas cuando un cliente cumple patrones de alto riesgo de churn.
 
 ---
 
