@@ -33,19 +33,25 @@ Este proyecto tiene como objetivo analizar y entender las causas detrás de la *
 <p align="left">
   <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/grafico_metodos_de_pago.png?raw=true" alt="Métodos de pago" width="600"/>
 </p>
+
 - **Menor tiempo de permanencia** y **menor gasto acumulado** son comunes entre quienes cancelan.
 <p align="left">
   <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/grafico_cuentas_tiempo.png?raw=true" alt="Tiempo de permanencia y gastos" width="600"/>
 </p>
-- Los clientes que usan **fibra óptica** tienden a cancelar menos que los que usan **DSL**.
+
+- Los clientes que usan **fibra óptica** tienden a cancelar más que los que usan **DSL**.
 <p align="left">
   <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/tipos_de_servicio.png?raw=true" alt="Tipos de servicio" width="600"/>
 </p>
+
 - Ciertas combinaciones de características permiten **predecir con mayor precisión** el riesgo de cancelación.
+
 <p align="left">
   <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/top_correlacion_cancelacion.png?raw=true" alt="correlaciones de cancelación" width="600"/>
 </p>
-- Tipos de clientes: Edad, género y dependientes a cargo.
+
+- Tipos de clientes: **Edad, género y dependientes a cargo**.
+  
 <p align="left">
   <img src="https://github.com/DaniBntz/TelecomX/blob/main/imagenes/clientes_jubilados.png?raw=true" alt="Clientes jubilados" width="600"/>
 </p>
@@ -60,8 +66,8 @@ Este proyecto tiene como objetivo analizar y entender las causas detrás de la *
 
 - Incentivar contratos **anuales o bianuales** con beneficios exclusivos.
 - Promover métodos de **pago automático**, especialmente por tarjeta de crédito.
-- Diseñar estrategias de **retención segmentadas** para usuarios de alto riesgo (ej. contratos mensuales, bajo gasto, pagos manuales).
-- Reforzar campañas de migración a **fibra óptica** para mejorar la satisfacción del cliente.
+- Diseñar estrategias de **retención segmentadas** para usuarios de alto riesgo.
+- Reforzar campañas de **fibra óptica** para mejorar la satisfacción del cliente.
 - Implementar **sistemas de alerta temprana** para prevenir cancelaciones inminentes.
 
 ---
